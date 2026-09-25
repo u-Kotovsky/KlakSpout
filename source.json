@@ -1,0 +1,12 @@
+{
+    "name":"KlakSpout",
+    "id":"jp.keijiro.klak.spout",
+    "url":"https://u-kotovsky.github.io/vpm-listing/index.json",
+    "description":"",
+    "githubRepos": [
+        "u-Kotovsky/KlakSpout"
+    ],
+    "author": {
+        "name": "u-Kotovsky"
+    }
+}
