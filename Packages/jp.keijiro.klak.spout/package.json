@@ -5,7 +5,7 @@
   "description": "Cross-process texture sharing using Spout.",
   "unity": "2022.3",
   "author": {
-    "name": "Keijiro Takahash",
+    "name": "Keijiro Takahash"
   },
   "dependencies": { "com.unity.modules.screencapture": "1.0.0" },
   "changelogUrl": "https://github.com/keijiro/KlakSpout/blob/main/CHANGELOG.md",
